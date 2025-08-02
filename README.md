@@ -37,8 +37,8 @@ The dataset used for training and testing is mail_data.csv, containing email mes
 Metrics
 Based on the current model training and evaluation:
 
-# Accuracy on Training Data: ~96.7% (Based on your output: 0.9667938074938299)
-# Accuracy on Test Data: ~97.1% (Based on your output: 0.9713004484304932)
+Accuracy on Training Data: ~96.7% (Based on my output: 0.9667938074938299)
+Accuracy on Test Data: ~97.1% (Based on the output: 0.9713004484304932)
 These metrics indicate that the model performs well in distinguishing between spam and non-spam emails on both the data it was trained on and unseen data.
 
 # Potential Impact and Efficiency:
